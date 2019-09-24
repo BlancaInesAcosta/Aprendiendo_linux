@@ -1,0 +1,36 @@
+Introducción
+El principal objetivo de este documento es lograr que el lector adquiera la capacidad de aprender a usar, 
+instalar y administrar una red de computadores con Linux en un colegio.
+
+Para fijar un marco de referencia preciso, hemos diseñado una red de computadores apropiada para colegios, 
+basada en el sistema operativo Linux y la utilización exclusiva de software de libre redistribución. 
+A este diseño lo hemos llamado plataforma de referencia S-Helio 1.1. Ver Plataforma de referencia.
+
+Para lograr el objetivo hemos escrito varios grupos de guías para diversos perfiles de usuarios, 
+que documentan diferentes aspectos de la plataforma de referencia S-Helio 1.1. El diseño de las guías, 
+el ambiente de aprendizaje que sugerimos y algunas recomendaciones para su uso se presentan en un ápendice 
+(Ver Apéndice B. Sobre estas guías).
+
+El resto de este documento está organizado así: Los capítulos 1 y 2 son grupos de guías para presentar 
+Linux a usuarios nuevos. El capítulo 3 consta de guías para usuarios avanzados que quieren aprovechar mejor un 
+sistema Linux. Los capítulos 4,5 y 6 son grupos de guías para los administradores de la red. El cuarto capítulo 
+es una introducción para ellos, el quinto presenta administración e instalación de un sistema Linux aislado de 
+una red y el sexto capítulo presenta instrucciones para instalar y administrar varios computadores en una red de 
+área local con servicios como correo electrónico, web, DNS, ftp, ssh, NIS, NFS.
+
+Al igual que todos los componentes de la plataforma de referencia S-Helio 1.1 (hardware, Linux, software de libre 
+redistribución), este documento está en constante proceso de actualización. El escrito que usted está consultando 
+fue actualizado por última vez en Febrero de 2003, si la fecha resulta muy antigua por favor obtenga una versión 
+más reciente en el sitio de distribución:
+
+http://structio.sourceforge.net/guias/AA_Linux_colegio/
+
+Las voluntarias y voluntarios que ayudamos a escribir estas guías no somos expertos en los temas tratados aunque 
+nos hemos esforzado por investigarlos y resumirlos, sólo tenemos algo de experiencia que queremos brindar 
+desinteresadamente. 
+Sin mala intención pudimos haber consignado errores (de ortografía, redacción o contenido), si encuentra alguno 
+por favor informenos ---si le es posible y lo desea, sugiriendo una mejora. Si lo desea también puede completar a 
+volver a escribir guías o porciones y liberarlas al dominio público para adjuntarlas a este escrito. 
+Puede enviar sus comentarios y mejoras por correo electrónico a <structio-guias@lists.sourceforge.net> 
+o si lo desea puede suscribirse a una lista de voluntarios, para colaborar de manera continua en el desarrollo:
+
